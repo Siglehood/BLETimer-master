@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BLE定时器</string>
+    <string name="ble_not_supported">该设备不支持BLE</string>
+    <string name="ble_name_unknown">蓝牙设备：未知</string>
+    <string name="ble_address_unknown">蓝牙地址：未知</string>
+    <string name="tag">第</string>
+    <string name="time_close">分钟关</string>
+    <string name="time_open">分钟开</string>
+    <string name="confirm">确定</string>
+    <string name="copyright">Copyright© 2005&#8211;2015 GEC.
+        \nAll Rights Reserved.</string>
+    <string name="ble_name">蓝牙设备：</string>
+    <string name="ble_address">蓝牙地址：</string>
+    <string name="toast_empty">不能为空</string>
+    <string name="toast_input_most">最多可以输入127分钟</string>
+    <string name="toast_open_more_than_close">打开时间必须大于关闭时间</string>
+    <string name="toast_setting_succeed">设置成功</string>
+    <string name="toast_setting_fail">设置失败</string>
+    <string name="toast_disconn">设备已断开，请重新启动应用</string>
+    <string name="unknown_device">未知设备</string>
+
+</resources>
